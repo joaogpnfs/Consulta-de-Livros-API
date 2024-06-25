@@ -9,13 +9,13 @@ Além de uma interface de consulta, desenvolvida com React e JavaScript.
 
 Para executar este projeto, você precisará ter instalado:
 
-Node.js - v12.18.3 ou superior
-Express.js - v4.17.1 ou superior
-React - v17.0.2 ou superior (se aplicável)
-React DOM - v17.0.2 ou superior
-npm - v6.14.6 ou superior
-Axios - v0.21.1 ou superior
-cors - v2.8.5 ou superior
+- Node.js - v12.18.3 ou superior
+- Express.js - v4.17.1 ou superior
+- React - v17.0.2 ou superior (se aplicável)
+- React DOM - v17.0.2 ou superior
+- npm - v6.14.6 ou superior
+- Axios - v0.21.1 ou superior
+- cors - v2.8.5 ou superior
 
 ### Clonar o Repositório
 
