@@ -6,6 +6,8 @@ Além de uma interface de consulta, desenvolvida com React e JavaScript.
 ## Sobre
 ![image](https://github.com/joaogpnfs/Consulta-de-Livros-API/assets/123667771/04e9b2d4-efee-43d4-94c1-46e4dfcd6f3e)
 
+O usuário deve abrir http://localhost:3000 com o browser para ver o resultado.
+A requisição POST deve ser feita por fora da aplicação, por meio de aplicações como o Insomnia (aplicação utilizada para realizar a requisição POST da imagem).
 
 ## Configuração do Projeto
 
