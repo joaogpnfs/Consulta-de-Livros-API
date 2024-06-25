@@ -3,6 +3,10 @@
 Este projeto consiste em uma API simples para consulta e gerenciamento de livros, desenvolvida em Node.js com TypeScript e utilizando o framework Express.
 Além de uma interface de consulta, desenvolvida com React e JavaScript.
 
+## Sobre
+![image](https://github.com/joaogpnfs/Consulta-de-Livros-API/assets/123667771/04e9b2d4-efee-43d4-94c1-46e4dfcd6f3e)
+
+
 ## Configuração do Projeto
 
 ### Pré-requisitos
